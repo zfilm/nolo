@@ -1,0 +1,77 @@
+06.08.2015 00:26:00	This log contains information about the import schema operation into project 'dbLayer' on computer 'MINCOMP' by user 'Ingeborg'.
+06.08.2015 00:26:00	Import of database schema has started.
+06.08.2015 00:26:07	Gathering database options
+06.08.2015 00:26:07	Gathering users
+06.08.2015 00:26:07	Gathering roles
+06.08.2015 00:26:07	Gathering application roles
+06.08.2015 00:26:07	Gathering role memberships
+06.08.2015 00:26:07	Gathering filegroups
+06.08.2015 00:26:07	Gathering full-text catalogs
+06.08.2015 00:26:07	Gathering assemblies
+06.08.2015 00:26:07	Gathering certificates
+06.08.2015 00:26:07	Gathering asymmetric keys
+06.08.2015 00:26:07	Gathering symmetric keys
+06.08.2015 00:26:07	Gathering encrypted symmetric keys
+06.08.2015 00:26:07	Gathering schemas
+06.08.2015 00:26:08	Gathering XML schema collections
+06.08.2015 00:26:08	Gathering user-defined data types
+06.08.2015 00:26:08	Gathering user-defined types
+06.08.2015 00:26:08	Gathering table types
+06.08.2015 00:26:08	Gathering unique keys for table types
+06.08.2015 00:26:08	Gathering primary keys for table types
+06.08.2015 00:26:08	Gathering indexes for table types
+06.08.2015 00:26:08	Gathering check constraints for table types
+06.08.2015 00:26:08	Gathering default constraints for table types
+06.08.2015 00:26:08	Gathering partition functions
+06.08.2015 00:26:08	Gathering partition schemes
+06.08.2015 00:26:08	Gathering functions
+06.08.2015 00:26:08	Gathering encrypted functions
+06.08.2015 00:26:08	Gathering aggregates
+06.08.2015 00:26:08	Gathering procedures
+06.08.2015 00:26:08	Gathering encrypted procedures
+06.08.2015 00:26:08	Gathering tables
+06.08.2015 00:26:08	Gathering primary keys
+06.08.2015 00:26:08	Gathering unique constraints
+06.08.2015 00:26:08	Gathering foreign keys
+06.08.2015 00:26:08	Gathering default constraints
+06.08.2015 00:26:08	Gathering check constraints
+06.08.2015 00:26:08	Gathering views
+06.08.2015 00:26:08	Gathering encrypted views
+06.08.2015 00:26:08	Gathering indexes
+06.08.2015 00:26:08	Gathering statistics
+06.08.2015 00:26:08	Gathering full-text index stoplists
+06.08.2015 00:26:08	Gathering search property lists
+06.08.2015 00:26:08	Gathering search properties
+06.08.2015 00:26:08	Gathering full-text indexes
+06.08.2015 00:26:08	Gathering column store indexes
+06.08.2015 00:26:08	Gathering spatial indexes
+06.08.2015 00:26:08	Gathering XML indexes
+06.08.2015 00:26:08	Gathering Selective XML indexes
+06.08.2015 00:26:08	Gathering encrypted triggers
+06.08.2015 00:26:08	Gathering triggers
+06.08.2015 00:26:08	Gathering encrypted and clr ddl triggers
+06.08.2015 00:26:08	Gathering ddl triggers
+06.08.2015 00:26:08	Gathering synonyms
+06.08.2015 00:26:08	Gathering defaults
+06.08.2015 00:26:08	Gathering data constraint uddt bindings
+06.08.2015 00:26:08	Gathering rules
+06.08.2015 00:26:08	Gathering data constraint uddt bindings
+06.08.2015 00:26:08	Gathering message types
+06.08.2015 00:26:08	Gathering queues
+06.08.2015 00:26:08	Gathering contracts
+06.08.2015 00:26:08	Gathering services
+06.08.2015 00:26:08	Gathering event notifications
+06.08.2015 00:26:08	Gathering remote service bindings
+06.08.2015 00:26:08	Gathering broker priorities
+06.08.2015 00:26:08	Gathering signatures
+06.08.2015 00:26:08	Gathering data compression options
+06.08.2015 00:26:08	Gathering sequence types
+06.08.2015 00:26:08	Gathering extended properties
+06.08.2015 00:26:08	Gathering credentials
+06.08.2015 00:26:08	Gathering logins
+06.08.2015 00:26:09	Gathering server audits
+06.08.2015 00:26:09	Scanning project for duplicate elements
+06.08.2015 00:26:09	Finished duplicate element processing
+06.08.2015 00:26:09	Finished importing database.
+06.08.2015 00:26:09	A summary of the import was saved to the following location: C:\Code\Nolo\dbLayer\Import Schema Logs\dbLayer_20150805102600.log
+06.08.2015 00:26:09	Click Finish to continue...
