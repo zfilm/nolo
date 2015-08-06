@@ -80,9 +80,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AdoModel.edmx</DependentUpon>
     </Compile>
-    <Compile Include="persons.cs">
-      <DependentUpon>AdoModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
   <EntityContainerMapping StorageEntityContainer="MySqlDBModelStoreContainer" CdmEntityContainer="MySqlDBEntities">
-    <EntitySetMapping Name="persons">
-      <EntityTypeMapping TypeName="MySqlDBModel.persons">
-        <MappingFragment StoreEntitySet="persons">
-          <ScalarProperty Name="id" ColumnName="id" />
-          <ScalarProperty Name="last_name" ColumnName="last_name" />
-          <ScalarProperty Name="first_name" ColumnName="first_name" />
-          <ScalarProperty Name="address" ColumnName="address" />
+    <EntitySetMapping Name="Persons">
+      <EntityTypeMapping TypeName="MySqlDBModel.Persons">
+        <MappingFragment StoreEntitySet="Persons">
           <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
