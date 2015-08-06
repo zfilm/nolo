@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nolo", "Nolo\Nolo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nolo.Tests", "Nolo.Tests\Nolo.Tests.csproj", "{4EF98C1C-B9C3-4565-ABBC-84DE074BBB68}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "dbLayer", "dbLayer\dbLayer.sqlproj", "{84E06F21-47BB-4AEA-9399-9287BB9CFB77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{FAB94958-EAA9-4D2F-BA89-DE0E00BC69B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +23,10 @@ Global
 		{4EF98C1C-B9C3-4565-ABBC-84DE074BBB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF98C1C-B9C3-4565-ABBC-84DE074BBB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF98C1C-B9C3-4565-ABBC-84DE074BBB68}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84E06F21-47BB-4AEA-9399-9287BB9CFB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84E06F21-47BB-4AEA-9399-9287BB9CFB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84E06F21-47BB-4AEA-9399-9287BB9CFB77}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{84E06F21-47BB-4AEA-9399-9287BB9CFB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84E06F21-47BB-4AEA-9399-9287BB9CFB77}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84E06F21-47BB-4AEA-9399-9287BB9CFB77}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FAB94958-EAA9-4D2F-BA89-DE0E00BC69B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB94958-EAA9-4D2F-BA89-DE0E00BC69B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB94958-EAA9-4D2F-BA89-DE0E00BC69B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB94958-EAA9-4D2F-BA89-DE0E00BC69B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
