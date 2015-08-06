@@ -1,0 +1,7 @@
+C:\Code\Nolo\dbLayer\bin\Debug\dbLayer.dacpac
+C:\Code\Nolo\dbLayer\obj\Debug\Model.xml
+C:\Code\Nolo\dbLayer\obj\Debug\refactor.xml
+C:\Code\Nolo\dbLayer\obj\Debug\postdeploy.sql
+C:\Code\Nolo\dbLayer\obj\Debug\predeploy.sql
+C:\Code\Nolo\dbLayer\obj\Debug\dbLayer.dll
+C:\Code\Nolo\dbLayer\obj\Debug\dbLayer.pdb
